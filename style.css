@@ -1,0 +1,63 @@
+.resume{
+     width:8.27in;
+     height:11.69in;
+     margin: 0 auto;
+     box-shadow: 2px 4px 6px rgb(195, 195, 195);
+}
+.resume-part{
+    width:7in;
+    height:200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+     
+     
+}
+.resmu-section1{
+    margin-top:60px;
+}
+
+.career-bg{
+    height:40px;
+    width:7in;
+    margin: 0 auto;
+    margin-top:65px;
+    background: #CAd9F8;
+}
+.career-objectValue{
+    width:7in;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 2px;
+    text-align: justify;
+}
+.skill-bg{
+    height:40px;
+    width:7in;
+    margin: 0 auto;
+    background: #CAd9F8;
+
+}
+.qualification{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left:40px;
+}
+
+
+table, td, th {  
+    border: 1px solid black;
+    text-align:center;
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    width:7in;
+    height: 100%;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    padding:5px;
+  }
